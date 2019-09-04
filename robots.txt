@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeenoraeth.srcml.com/sitemap.xml
